@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ??on:off_coohome-74B.ggsk
-// Generated 2023-10-25T18:38:06
+// Generated 2023-10-26T11:35:00
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_catagory', 2, false, { ignoreInState: 0  });
@@ -11396,9 +11396,9 @@ function pano2vrSkin(player,base) {
 		el.ggType='container';
 		hs ='';
 		hs+='cursor : pointer;';
-		hs+='height : 680px;';
+		hs+='height : 590px;';
 		hs+='position : absolute;';
-		hs+='right : 3%;';
+		hs+='right : 2.5%;';
 		hs+='top : 15%;';
 		hs+='visibility : inherit;';
 		hs+='width : 85px;';
@@ -11430,7 +11430,7 @@ function pano2vrSkin(player,base) {
 					me.__18.style.top='23%';
 				}
 				else {
-					me.__18.style.right='3%';
+					me.__18.style.right='2.5%';
 					me.__18.style.top='15%';
 				}
 			}
@@ -11457,7 +11457,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__18.style.width='85px';
-					me.__18.style.height='680px';
+					me.__18.style.height='590px';
 					skin.updateSize(me.__18);
 				}
 			}
@@ -12114,7 +12114,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 60px;';
 		hs+='left : calc(50% - ((60px + 0px) / 2) - 1px);';
 		hs+='position : absolute;';
-		hs+='top : 200px;';
+		hs+='top : 180px;';
 		hs+='visibility : inherit;';
 		hs+='width : 60px;';
 		hs+='pointer-events:none;';
@@ -12152,7 +12152,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__41.style.left='calc(50% - ((60px + 0px) / 2) - 1px)';
-					me.__41.style.top='200px';
+					me.__41.style.top='180px';
 				}
 			}
 		}
@@ -20427,7 +20427,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 60px;';
 		hs+='left : calc(50% - ((60px + 0px) / 2) - 1px);';
 		hs+='position : absolute;';
-		hs+='top : 300px;';
+		hs+='top : 260px;';
 		hs+='visibility : inherit;';
 		hs+='width : 60px;';
 		hs+='pointer-events:none;';
@@ -20465,7 +20465,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__36.style.left='calc(50% - ((60px + 0px) / 2) - 1px)';
-					me.__36.style.top='300px';
+					me.__36.style.top='260px';
 				}
 			}
 		}
@@ -20740,7 +20740,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 60px;';
 		hs+='left : calc(50% - ((60px + 0px) / 2) - 1px);';
 		hs+='position : absolute;';
-		hs+='top : 400px;';
+		hs+='top : 340px;';
 		hs+='visibility : inherit;';
 		hs+='width : 60px;';
 		hs+='pointer-events:none;';
@@ -20778,7 +20778,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__33.style.left='calc(50% - ((60px + 0px) / 2) - 1px)';
-					me.__33.style.top='400px';
+					me.__33.style.top='340px';
 				}
 			}
 		}
@@ -21048,7 +21048,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 60px;';
 		hs+='left : calc(50% - ((60px + 0px) / 2) - 1px);';
 		hs+='position : absolute;';
-		hs+='top : 500px;';
+		hs+='top : 420px;';
 		hs+='visibility : inherit;';
 		hs+='width : 60px;';
 		hs+='pointer-events:none;';
@@ -21086,7 +21086,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__26.style.left='calc(50% - ((60px + 0px) / 2) - 1px)';
-					me.__26.style.top='500px';
+					me.__26.style.top='420px';
 				}
 			}
 		}
@@ -21358,7 +21358,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 60px;';
 		hs+='left : calc(50% - ((60px + 0px) / 2) - 1px);';
 		hs+='position : absolute;';
-		hs+='top : 600px;';
+		hs+='top : 500px;';
 		hs+='visibility : inherit;';
 		hs+='width : 60px;';
 		hs+='pointer-events:none;';
@@ -21396,7 +21396,7 @@ function pano2vrSkin(player,base) {
 				}
 				else {
 					me.__23.style.left='calc(50% - ((60px + 0px) / 2) - 1px)';
-					me.__23.style.top='600px';
+					me.__23.style.top='500px';
 				}
 			}
 		}
@@ -22925,7 +22925,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='height : 100%;';
 		hs+='position : absolute;';
-		hs+='right : 0%;';
+		hs+='right : 1.3%;';
 		hs+='top : 0px;';
 		hs+='visibility : hidden;';
 		hs+='width : 100%;';
@@ -23881,7 +23881,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='height : 100%;';
 		hs+='position : absolute;';
-		hs+='right : 0%;';
+		hs+='right : 1.3%;';
 		hs+='top : 0px;';
 		hs+='visibility : hidden;';
 		hs+='width : 100%;';
