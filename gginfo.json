@@ -3,9 +3,12 @@
 	"type": "panorama",
 	"external": {
 		"js": [
+			"3rdparty/leaflet/leaflet.js",
 			"3rdparty/lottie/lottie.min.js"
 		],
-		"css": []
+		"css": [
+			"3rdparty/leaflet/leaflet.css"
+		]
 	},
 	"skin": {
 		"js": "skin.js"
@@ -14,7 +17,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2023-10-27T07:08:02.891Z",
+	"creationdate": "2023-10-27T08:05:52.255Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",

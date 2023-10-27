@@ -1130,10 +1130,10 @@
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map title="" crispedges="0" transparent="0" zoomlevels="1" bgcolor="rgba(0, 0, 0, 1)" tileformat="png" index="0" height="3000" floorplannorth="0" id="FloorPlan01" type="file" width="3000"/>
+  <map title="" crispedges="0" transparent="0" zoomlevels="5" bgcolor="rgba(0, 0, 0, 1)" tileformat="png" index="0" height="3000" floorplannorth="0" id="FloorPlan01" type="file" width="3000"/>
   <map title="" mapmaxzoom="18" googlecustomstylecode="" index="1" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" mapstyle="streets" id="Map01" type="web"/>
-  <map title="" crispedges="0" transparent="0" zoomlevels="1" bgcolor="rgba(0, 0, 0, 1)" tileformat="png" index="2" height="3000" floorplannorth="0" id="FloorPlan02" type="file" width="3000"/>
+  <map title="" crispedges="0" transparent="0" zoomlevels="5" bgcolor="rgba(0, 0, 0, 1)" tileformat="png" index="2" height="3000" floorplannorth="0" id="FloorPlan02" type="file" width="3000"/>
   <map title="" mapmaxzoom="18" googlecustomstylecode="" index="3" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" mapstyle="streets" id="Map02" type="web"/>
   <map title="" mapmaxzoom="18" googlecustomstylecode="" index="4" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" mapstyle="streets" id="Map03" type="web"/>
-  <map title="" crispedges="0" transparent="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" index="5" height="3000" floorplannorth="0" id="FloorPlan03" type="file" width="3000"/>
+  <map title="" crispedges="0" transparent="0" zoomlevels="5" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" index="5" height="3000" floorplannorth="0" id="FloorPlan03" type="file" width="3000"/>
 </tour>
